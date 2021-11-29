@@ -4,10 +4,10 @@ https://rrshops.netlify.app/
 
 
 ## RR Shopware site built with:
-- Vanilla JavaScript
+- Vanilla JavaScript / ECMAScript (ES6+)
 - CSS
 - HTML
-- Bootstrap
+- Bootstrap 5
 
 ## Shopping cart page with functionalities:
 - Add item to cart
