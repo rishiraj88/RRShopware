@@ -1,5 +1,11 @@
 # RR Shopware
+## Where Casuals meet Formals
+
+This frontend project features a proof of concept of modern UI design. The technologies used to build it are: modern Vanilla Javascript (ECMAScript 8), Cascading StyleSheets (CSS), HyperText Markup Language (HTML) and Bootstrap.
+
 Visit us at:
+https://main.d2lrbom9lqgzbs.amplifyapp.com/
+OR
 https://rrshops.netlify.app/
 
 
@@ -15,6 +21,9 @@ https://rrshops.netlify.app/
 - Discount code
 - Displaying expected delivery date
 - Links to contact us/me through various channels including WhatsApp
+
+## Docker Repository for Container Images
+https://hub.docker.com/r/i50729/rrshops
 
 ## Screenshots
 
