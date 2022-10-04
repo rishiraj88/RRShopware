@@ -29,7 +29,7 @@ https://hub.docker.com/r/i50729/rrshops
 
 - ### Medium Viewport
 
-![Main and Header](assets/images/md-01.jpg)  
+![Main and Header](assets/images/rrshops-2022.png)  
 Main and Header  
 
 
