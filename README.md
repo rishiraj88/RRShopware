@@ -1,8 +1,7 @@
 # RR Shopware
 ## Where Casuals meet Formals
 
-This frontend project features a proof of concept of modern UI design. It is a lean and intuitive user interface.
-The technologies used to build it are: modern Vanilla Javascript (ECMAScript 8), Cascading StyleSheets (CSS), HyperText Markup Language (HTML) and Bootstrap.
+This frontend project features a proof of concept (PoC) of modern UI design. The technologies used to build it are: modern Vanilla Javascript (ECMAScript 8), Cascading StyleSheets (CSS), HyperText Markup Language (HTML) and Bootstrap.
 
 Visit us at:
 https://main.d2lrbom9lqgzbs.amplifyapp.com/
